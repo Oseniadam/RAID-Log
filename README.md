@@ -15,7 +15,7 @@ Dropdown menus provided
 
 **Risk**
 
-<img width="595" alt="image" src="https://user-images.githubusercontent.com/57412626/217071081-526d0c98-e8de-43a4-8cba-8ecde1aeec81.png">
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/57412626/217072861-4ec8b96f-23b2-4678-a9ac-64d56083e0e2.png">
 
 **Issues**
 
