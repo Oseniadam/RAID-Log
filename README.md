@@ -7,7 +7,7 @@ This template uses 4 worksheets or tabs, one for each log.
 
 Dropdown menus provided
 
-<img width="303" alt="image" src="https://user-images.githubusercontent.com/57412626/217071320-081fa415-004f-4b49-807c-94087d8a6cca.png">
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/57412626/217073349-ad7591e9-9b7f-4014-997b-8e6bb33906f1.png">
 
 **Actions**
 
